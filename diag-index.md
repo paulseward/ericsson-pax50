@@ -17,7 +17,7 @@ This page lists the diagrams that are known about, and will be updated as more i
 | [94519/W](./94519-w.pdf) | 50 Line PAX. Wiring of Line Relays | 1 sheet, foxing, good | n/a |
 | 94550 | 50 Line PAX.  Line Connector & Register Circuit | 12 sheet, fragile, poor quality | [94550](./94550-explanatory.pdf) |
 | 94550 (Partial, Modified) | 50 Line PAX. Monified for Lots Rd Control Room (T2,T3 Strapping Mods for numbering scheme) | 2 sheet, torn, poor | n/a |
-| 94550/U Fig 4 | 50 Line PAX. Register Circuit, 2000 Type - UPoints | 4 sheet, foxing, good | n/a |
+| [94550/U Fig 4](./94550-u-4.pdf) | 50 Line PAX. Register Circuit, 2000 Type - UPoints | 4 sheet, foxing, good | n/a |
 | 94550/U Fig 2A | 50 Line PAX. Connector Circuit, 2000 Type - Upoints | 1 sheet, foxing, good | n/a |
 | [94551](./94551-ringing-tones.pdf) | 50 Line PAX. Ringing & Tones Circuit | 2 sheet, foxing, good | [94551](./94551-explanatory.pdf) |
 | [94551/U](./94551-u.pdf) | 50 Line PAX. Ringins & Tones Circuit, UPoints | 1 sheet, foxing, good | n/a |
@@ -36,7 +36,7 @@ This page lists the diagrams that are known about, and will be updated as more i
 | [22450](./22450-3a.pdf) Sheet 3-a (Partial, Modified) | Revised Fig 4, Fig 4A, Fig 5 - Showing wiring to IDF Vert 1 Block C | n/a |
 | [200758/W v1](./200758-w-power-unit-v1.pdf) | Power Circuit, Single Battery Float Power Plant for Small Telephone Exchs. 24 Volt Systems | 1 sheet, good, London Transport Modifications (2 copies) | n/a |
 | [200758/W v2](./200758-w-power-unit-v2.pdf) | Power Circuit, Single Battery Float Power Plant for Small Telephone Exchs. 24 Volt Systems | 1 sheet, good, London Transport Modifications (2 copies) | n/a |
-| X1164/3 | Cycloc 12 LAC 10A Auto-Charger | A2, diry but clear, good | n/a |
+| X1164/3 | Cycloc 12 LAC 10A Auto-Charger | A2, dirty but clear, good | n/a |
 
 ## Tag Block Folder:
 
