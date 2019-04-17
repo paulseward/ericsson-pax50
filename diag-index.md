@@ -67,7 +67,7 @@ This page lists the diagrams that are known about, and will be updated as more i
 ## Misc Documents
 | No | Title | Condition |
 |:---|:------|:----------|
-| Dial Label 45 [pdf](./dial_label_45.pdf) - [jpg](./dial_label_45.jpg) | London Transport Dial Label No 45 | Yellow, incomplete |
+| Dial Label 45 [pdf](./dial_label_45.pdf) - [jpg](./dial_label_45.jpg) | London Transport Dial Label No 45 | Yellow, incomplete, 38mm Diameter, 700 style phones |
 | [Installation Memo - Coversheet](./memo_coversheet.pdf) | Installation Memo - Coversheet |
 | [Installation Memo - Request](./memo_pages_searchable.pdf) | Installation Memo - Requested telephone locations, and some numbering |
 | [Installation Memo - Directory](./memo_directory.pdf) | Installation Memo - Partially populated directory |
