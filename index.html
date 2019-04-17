@@ -36,18 +36,26 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <div class="container">
     <div class="row">
-      <div class="twelve columns" style="margin-top: 5%;" id="content">
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <script>
-    document.getElementById('content').innerHTML =
-      marked(`<!--#include virtual="./diag-index.md"-->`);
-  </script>
-      </div>
+      <div class="twelve columns" style="margin-top: 5%;" id="content">Loading...</div>
     </div>
   </div>
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+  var request = new XMLHttpRequest();
+  request.open('GET', './diag-index.md', true);
+  request.onload = function() {
+    if (request.status >= 200 && request.status < 400) {
+      document.getElementById('content').innerHTML = marked(request.responseText);
+    } else {
+      document.getElementById('content').innerHTML = marked("unable to load index");
+    }
+  };
+  request.send();
+</script>
+
 </body>
 </html>
 
