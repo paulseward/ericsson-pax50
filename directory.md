@@ -4,7 +4,7 @@ Information collated from several sources within the documentation currently ava
 
 | No | Allocation |
 |:---|:-----------|
-| 2 | Control Room Desks (3 lines) |
+|  2 | Control Room Desks (3 lines) |
 | 11 | PAX Test telephone |
 | 30 | Tele Cage |
 | 69 | Assistant Station Superintendents Office |
