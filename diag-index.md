@@ -15,21 +15,21 @@ This page lists the diagrams that are known about, and will be updated as more i
 |Diag No|Title|Condition|Diag Notes|
 |:------|:----|:--------|:---------|
 | [94519/W](./94519-w.pdf) | 50 Line PAX. Wiring of Line Relays | 1 sheet, foxing, good | n/a |
-| 94550 | 50 Line PAX.  Line Connector & Register Circuit | 12 sheet, fragile, poor quality | [94550](./94550-explanatory.pdf) |
+| 94550 | 50 Line PAX.  Line Connector & Register Circuit | 12 sheet, fragile, poor quality, needs stabilising before scan | [94550](./94550-explanatory.pdf) |
 | 94550 (Partial, Modified) | 50 Line PAX. Monified for Lots Rd Control Room (T2,T3 Strapping Mods for numbering scheme) | 2 sheet, torn, poor | n/a |
 | [94550/U Fig 4](./94550-u-4.pdf) | 50 Line PAX. Register Circuit, 2000 Type - UPoints | 4 sheet, foxing, good | n/a |
 | [94550/U Fig 2A](./94550-u-2a.pdf) | 50 Line PAX. Connector Circuit, 2000 Type - Upoints | 1 sheet, foxing, good | n/a |
 | [94551](./94551-ringing-tones.pdf) | 50 Line PAX. Ringing & Tones Circuit | 2 sheet, foxing, good | [94551](./94551-explanatory.pdf) |
 | [94551/U](./94551-u.pdf) | 50 Line PAX. Ringins & Tones Circuit, UPoints | 1 sheet, foxing, good | n/a |
 | 94552/W | 50 Line PAX. Wiring of Tens, Units & Register Switches | 8 sheet, foxing, good | n/a |
-| 94553/W | 50 Line PAX. Wiring of Line Finder multiple and strps onn. | 8 sheet, foxing, RHS edge omitted | n/a |
+| 94553/W | 50 Line PAX. Wiring of Line Finder multiple and strips conn. | 8 sheet, foxing, RHS edge omitted | n/a |
 | 94554/W | 50 Line PAX. Wiring of Connector Multiple | 4 sheet, foxing, faint | n/a |
 | [94560](./94560-tie-line.pdf) | 50 Line PAX. Tie Line with Preference Access & Preference Discrimination | 4 sheet, foxing, good | n/a |
-| 94561 | 50 Line PAX. Direct Access Circuit | Missing | no |
-| 94562 | 50 Line PAX. Direct Call Circuit | Missing | no |
-| 94566 | 50 Line PAX. Staff Call Audible Code Circuit for 15 Lines | Missing | no |
-| 94567 | 50 Line PAX. Staff Call Circuit | Missing | no |
-| 94569 | 50 Line PAX. 2 - Party Line | Missing | no |
+| 94561 | 50 Line PAX. Direct Access Circuit | *Missing* | no |
+| 94562 | 50 Line PAX. Direct Call Circuit | *Missing* | no |
+| 94566 | 50 Line PAX. Staff Call Audible Code Circuit for 15 Lines | *Missing* | no |
+| 94567 | 50 Line PAX. Staff Call Circuit | *Missing* | no |
+| 94569 | 50 Line PAX. 2 - Party Line | *Missing* | no |
 | 22540 Sheet 1-3 | Typical Equipment, 50 Line Register PAX | 4 sheet, foxing, good | n/a |
 | 22540 Sheet 2-3 | Typical Equipment, 50 Line Register PAX | 4 sheet, foxing, good | n/a |
 | 22540 Sheet 3-3 | Typical Equipment, 50 Line Register PAX | 4 sheet, foxing, good | n/a |
@@ -50,7 +50,7 @@ This page lists the diagrams that are known about, and will be updated as more i
 | 9250 | Lots Rd Control Room, Jumpering Chart for IDF, Vert 1 Block B | |
 | 9251 | Lots Rd Control Room, Jumpering Chart for IDF, Vert 1 Block C | |
 | 9252 | Lots Rd Control Room, Jumpering Chart for IDF, Vert 2 Block A | |
-| 9253 | Lots Rd Control Room, Jumpering Chart for IDF, Vert 2 Block B | missing |
+| 9253 | Lots Rd Control Room, Jumpering Chart for IDF, Vert 2 Block B | *Missing* |
 | 9254 | Lots Rd Control Room, Jumpering Chart for IDF, Vert 2 Block C | |
 | 9246 | Lots Rd Control Room, Jumpering Chart for IDF, Vert 1 Block B | |
 
@@ -63,8 +63,11 @@ This page lists the diagrams that are known about, and will be updated as more i
 
 | Diag No | Title | Condition |
 |:--------|:------|:----------|
+|         | Layout of the plant room | Poor.  Complete, but not in one piece.  Needs stabilising before scan |
 
-## Misc Documents
+## Misc. Related Documents:
+Not all of the documentation received with the PAX was technical, or formal.
+
 | No | Title | Condition |
 |:---|:------|:----------|
 | Dial Label 45 [pdf](./dial_label_45.pdf) - [jpg](./dial_label_45.jpg) | London Transport Dial Label No 45 | Yellow, incomplete, 38mm Diameter, 700 style phones |
