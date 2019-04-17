@@ -74,4 +74,4 @@ Not all of the documentation received with the PAX was technical, or formal.
 | [Installation Memo - Coversheet](./memos/memo_coversheet.pdf) | Installation Memo - Coversheet |
 | [Installation Memo - Request](./memos/memo_pages_searchable.pdf) | Installation Memo - Requested telephone locations, and some numbering |
 | [Installation Memo - Directory](./memos/memo_directory.pdf) | Installation Memo - Partially populated directory |
-| [Directory](./directory.md) | Directory of known-allocated extension numbers, based on available documentation |
+| [Directory](./local/directory.md) | Directory of known-allocated extension numbers, based on available documentation |
