@@ -71,7 +71,7 @@ Not all of the documentation received with the PAX was technical, or formal.
 | No | Title | Condition |
 |:---|:------|:----------|
 | [Dial Label 45 - pdf](./dial_label_45.pdf) <br/> [Dial Label 45 - jpg](./dial_label_45.jpg) | London Transport Dial Label No 45 | Yellow, incomplete, 38mm Diameter, 700 style phones. |
-| [Installation Memo - Coversheet](./memo_coversheet.pdf) | Installation Memo - Coversheet |
-| [Installation Memo - Request](./memo_pages_searchable.pdf) | Installation Memo - Requested telephone locations, and some numbering |
-| [Installation Memo - Directory](./memo_directory.pdf) | Installation Memo - Partially populated directory |
+| [Installation Memo - Coversheet](./memos/memo_coversheet.pdf) | Installation Memo - Coversheet |
+| [Installation Memo - Request](./memos/memo_pages_searchable.pdf) | Installation Memo - Requested telephone locations, and some numbering |
+| [Installation Memo - Directory](./memos/memo_directory.pdf) | Installation Memo - Partially populated directory |
 | [Directory](./directory.md) | Directory of known-allocated extension numbers, based on available documentation |
