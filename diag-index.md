@@ -68,5 +68,7 @@ This page lists the diagrams that are known about, and will be updated as more i
 | No | Title | Condition |
 |:---|:------|:----------|
 | Dial45 | London Transport Dial Label No 45 | Yellowed, incomplete |
-| Memo1 | Installation Memo |
+| (Installation Memo - Coversheet](./memo_coversheet.pdf) | Installation Memo - Coversheet |
+| (Installation Memo - Request](./memo_pages_searchable.pdf) | Installation Memo - Requested telephone locations, and some numbering |
+| Installation Memo - Directory | Installation Memo - Partially populated directory |
 
