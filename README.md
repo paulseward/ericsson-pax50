@@ -24,12 +24,12 @@ This page lists the diagrams that are known about, and will be updated as more i
 | 94552/W | 50 Line PAX. Wiring of Tens, Units & Register Switches | 8 sheet, foxing, good | n/a |
 | 94553/W | 50 Line PAX. Wiring of Line Finder multiple and strips conn. | 8 sheet, foxing, RHS edge omitted | n/a |
 | 94554/W | 50 Line PAX. Wiring of Connector Multiple | 4 sheet, foxing, faint | n/a |
-| [94560](./diagrams/94560-tie-line.pdf) | 50 Line PAX. Tie Line with Preference Access & Preference Discrimination | 4 sheet, foxing, good | n/a |
-| 94561 | 50 Line PAX. Direct Access Circuit | *Missing* | no |
-| 94562 | 50 Line PAX. Direct Call Circuit | *Missing* | no |
-| 94566 | 50 Line PAX. Staff Call Audible Code Circuit for 15 Lines | *Missing* | no |
-| 94567 | 50 Line PAX. Staff Call Circuit | *Missing* | no |
-| 94569 | 50 Line PAX. 2 - Party Line | *Missing* | no |
+| [94560](./diagrams/94560-tie-line.pdf) | 50 Line PAX. Tie Line with Preference Access & Preference Discrimination | 4 sheet, foxing, good | *missing* |
+| 94561 | 50 Line PAX. Direct Access Circuit | *missing* | *missing* |
+| 94562 | 50 Line PAX. Direct Call Circuit | *missing* | *missing* |
+| 94566 | 50 Line PAX. Staff Call Audible Code Circuit for 15 Lines | *missing* | *missing* |
+| 94567 | 50 Line PAX. Staff Call Circuit | *missing* | *missing* |
+| 94569 | 50 Line PAX. 2 - Party Line | *missing* | *missing* |
 | 22540 Sheet 1-3 | Typical Equipment, 50 Line Register PAX | 4 sheet, foxing, good | n/a |
 | 22540 Sheet 2-3 | Typical Equipment, 50 Line Register PAX | 4 sheet, foxing, good | n/a |
 | 22540 Sheet 3-3 | Typical Equipment, 50 Line Register PAX | 4 sheet, foxing, good | n/a |
@@ -50,7 +50,7 @@ This page lists the diagrams that are known about, and will be updated as more i
 | 9250 | Lots Rd Control Room, Jumpering Chart for IDF, Vert 1 Block B | |
 | 9251 | Lots Rd Control Room, Jumpering Chart for IDF, Vert 1 Block C | |
 | 9252 | Lots Rd Control Room, Jumpering Chart for IDF, Vert 2 Block A | |
-| 9253 | Lots Rd Control Room, Jumpering Chart for IDF, Vert 2 Block B | *Missing* |
+| 9253 | Lots Rd Control Room, Jumpering Chart for IDF, Vert 2 Block B | *missing* |
 | 9254 | Lots Rd Control Room, Jumpering Chart for IDF, Vert 2 Block C | |
 | 9246 | Lots Rd Control Room, Jumpering Chart for IDF, Vert 1 Block B | |
 
