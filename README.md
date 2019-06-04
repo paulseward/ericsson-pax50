@@ -15,8 +15,9 @@ This page lists the diagrams that are known about, and will be updated as more i
 |Diag No|Title|Condition|Diag Notes|
 |:------|:----|:--------|:---------|
 | [94519/W](./diagrams/94519-w.pdf) | 50 Line PAX. Wiring of Line Relays | 1 sheet, foxing, good | n/a |
-| 94550 | 50 Line PAX.  Line Connector & Register Circuit | 12 sheet, fragile, poor quality, needs stabilising before scan | [94550](./diagrams/94550-explanatory.pdf) |
+| [94550](./diagrams/94550.pdf) | 50 Line PAX.  Line Connector & Register Circuit | 12 sheet, fragile, poor quality, some elements obscured by tape residue | [94550](./diagrams/94550-explanatory.pdf) |
 | 94550 (Partial, Modified) | 50 Line PAX. Modified for Lots Rd Control Room (T2,T3 Strapping Mods for numbering scheme) | 2 sheet, torn, poor | n/a |
+| [94550 Paster](./diagrams/94550-paster.pdf) | 50 Line PAX.  Line Connector & Register Circuit | Paster Diagram inside door of PAX, very faint | [94550](./diagrams/94550-explanatory.pdf) |
 | [94550/U Fig 4](./diagrams/94550-u-4.pdf) | 50 Line PAX. Register Circuit, 2000 Type - UPoints | 4 sheet, foxing, good | n/a |
 | [94550/U Fig 2A](./diagrams/94550-u-2a.pdf) | 50 Line PAX. Connector Circuit, 2000 Type - Upoints | 1 sheet, foxing, good | n/a |
 | [94551](./diagrams/94551-ringing-tones.pdf) | 50 Line PAX. Ringing & Tones Circuit | 2 sheet, foxing, good | [94551](./diagrams/94551-explanatory.pdf) |
