@@ -77,4 +77,9 @@ Not all of the documentation received with the PAX was technical, or formal.
 | [Installation Memo - Request](./memos/memo_pages_searchable.pdf) | Installation Memo - Requested telephone locations, and some numbering |
 | [Installation Memo - Directory](./memos/memo_directory.pdf) | Installation Memo - Partially populated directory |
 | [Directory](./local/directory.md) | Directory of known-allocated extension numbers, based on available documentation |
-| [Facilities - Tie Lines](./local/EP2-4066-Facilities-tie-lines.pdf) | Extract from booklet describing installation of tie line facilities - Thanks to Geoff Mawdsley |
+
+The following documents were copy typed from documents provided by Geoff Mawdsley
+| No | Title | Condition |
+|:---|:------|:----------|
+| [Facilities - Preference](./local/EP2-4066-Facilities-preference.pdf) | Extract from EP2-4066 describing installation of preference facilities |
+| [Facilities - Tie Lines](./local/EP2-4066-Facilities-tie-lines.pdf) | Extract from EP2-4066 describing installation of tie line facilities |
