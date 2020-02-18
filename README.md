@@ -78,8 +78,18 @@ Not all of the documentation received with the PAX was technical, or formal.
 | [Installation Memo - Directory](./memos/memo_directory.pdf) | Installation Memo - Partially populated directory |
 | [Directory](./local/directory.md) | Directory of known-allocated extension numbers, based on available documentation |
 
-The following documents were copy typed from documents provided by Geoff Mawdsley
+## Telephone Rentals Documentation
+The following Telephone Rentals documents were copy typed from documents kindly provided by Geoff Mawdsley.
+
 | No | Title | Condition |
 |:---|:------|:----------|
-| [Facilities - Preference](./local/EP2-4066-Facilities-preference.pdf) | Extract from EP2-4066 describing installation of preference facilities |
-| [Facilities - Tie Lines](./local/EP2-4066-Facilities-tie-lines.pdf) | Extract from EP2-4066 describing installation of tie line facilities |
+| [S50 - Switchboard, Basic Information](EP2-3016-S50-Switchboard-Basic-Information.pdf ) | General information about the PAX |
+| [S50 - Switchboard Facilities](./local/EP2-3004-S50-Switchboard-Facilities.pdf ) | Available facilities |
+| [S50 - Facilities, Rining Discrimination (Dial Calls)](EP2-4005-S50-Facilities-Ringing-Discriminating-Dial-Calls.pdf ) | Distinctive Ringing |
+| [S50 - Facilities, Conference](EP2-4027-S50-Facilities-Conference.pdf ) | Conference Services |
+| [S50 - Facilities, Dictation Recording](EP2-4055-S50-Facilities-Dictation-Recording.pdf ) | Dictation Services |
+| [S50 - Facilities, Fire Reporting](EP2-4057-S50-Facilities-Fire-Reporting.pdf ) | Fire Reporting Services |
+| [S50 - Facilities, Preference](EP2-4066-S50-Facilities-Preference.pdf ) | Preference Access |
+| [S50 - Facilities, Tie Lines](EP2-4066-S50-Facilities-tie-lines.pdf ) | Tie Lines |
+| [S50 - Facilities, Group Hunting](EP2-4072-S50-Facilities-Group-Hunting.pdf ) | Group Hunting |
+
