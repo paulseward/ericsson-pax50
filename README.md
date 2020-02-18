@@ -83,13 +83,13 @@ The following Telephone Rentals documents were copy typed from documents kindly 
 
 | No | Title | Condition |
 |:---|:------|:----------|
-| [S50 - Switchboard, Basic Information](EP2-3016-S50-Switchboard-Basic-Information.pdf ) | General information about the PAX |
+| [S50 - Switchboard, Basic Information](./local/EP2-3016-S50-Switchboard-Basic-Information.pdf ) | General information about the PAX |
 | [S50 - Switchboard Facilities](./local/EP2-3004-S50-Switchboard-Facilities.pdf ) | Available facilities |
-| [S50 - Facilities, Rining Discrimination (Dial Calls)](EP2-4005-S50-Facilities-Ringing-Discriminating-Dial-Calls.pdf ) | Distinctive Ringing |
-| [S50 - Facilities, Conference](EP2-4027-S50-Facilities-Conference.pdf ) | Conference Services |
-| [S50 - Facilities, Dictation Recording](EP2-4055-S50-Facilities-Dictation-Recording.pdf ) | Dictation Services |
-| [S50 - Facilities, Fire Reporting](EP2-4057-S50-Facilities-Fire-Reporting.pdf ) | Fire Reporting Services |
-| [S50 - Facilities, Preference](EP2-4066-S50-Facilities-Preference.pdf ) | Preference Access |
-| [S50 - Facilities, Tie Lines](EP2-4066-S50-Facilities-tie-lines.pdf ) | Tie Lines |
-| [S50 - Facilities, Group Hunting](EP2-4072-S50-Facilities-Group-Hunting.pdf ) | Group Hunting |
+| [S50 - Facilities, Rining Discrimination (Dial Calls)](./local/EP2-4005-S50-Facilities-Ringing-Discriminating-Dial-Calls.pdf ) | Distinctive Ringing |
+| [S50 - Facilities, Conference](./local/EP2-4027-S50-Facilities-Conference.pdf ) | Conference Services |
+| [S50 - Facilities, Dictation Recording](./local/EP2-4055-S50-Facilities-Dictation-Recording.pdf ) | Dictation Services |
+| [S50 - Facilities, Fire Reporting](./local/EP2-4057-S50-Facilities-Fire-Reporting.pdf ) | Fire Reporting Services |
+| [S50 - Facilities, Preference](./local/EP2-4066-S50-Facilities-Preference.pdf ) | Preference Access |
+| [S50 - Facilities, Tie Lines](./local/EP2-4066-S50-Facilities-tie-lines.pdf ) | Tie Lines |
+| [S50 - Facilities, Group Hunting](./local/EP2-4072-S50-Facilities-Group-Hunting.pdf ) | Group Hunting |
 
