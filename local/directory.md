@@ -2,20 +2,47 @@
 
 Information collated from several sources within the documentation currently available, shows that the following lines were allocated:
 
-| No | Allocation |
-|:---|:-----------|
-|  2 | Control Room Desks (3 lines) |
-| 11 | PAX Test telephone |
-| 30 | Tele Cage |
-| 69 | Assistant Station Superintendents Office |
-| 72 | Boilerhouse Supervisors Office |
-| 74 | Shift Charge Engineers Office |
-| 75 | Boiler Feed Pump |
-| 76 | No.2 Turbine |
-| 77 | Plant Control (Plant Instrumentat Room A) |
-| 78 | Mr Babcock |
+| No | Allocation | Notes |
+|:---|:-----------|:------|
+|  2 | Control Room Desks (3 lines) | The Misc Services Strip has this strapped up as tie-lines |
+| 11 | PAX Test telephone | |
+| 30 | Tele Cage | |
+| 69 | Assistant Station Superintendents Office | |
+| 72 | Boilerhouse Supervisors Office | |
+| 74 | Shift Charge Engineers Office | |
+| 75 | Boiler Feed Pump | |
+| 76 | No.2 Turbine | |
+| 77 | Plant Control (Plant Instrumentat Room A) | |
+| 78 | Mr Babcock | |
 
 Other numbers were certainly provided, but I've been unable to identify which numbers were allocated to the telephones installed.
+
+# PAX renumbering
+
+The numbering for the PAX appears to differ from the standard "as-issued" numbering scheme.  The mapping is as follows:
+
+| Old Number | New Number | Notes |
+|:-----------|:-----------|:------|
+| 1x |  | Single digit facility, strapped to MH | 
+| 2x |  | Single-Digit tie line style access | 
+| 3x |  |  | 
+| 4x |  |  | 
+| 5x |  |  | 
+| 6x |  |  | 
+| 7x |  |  | 
+| 8x | 8x | Single digit facility (no change, strapped to MH) | 
+| 9x | 9x | Single digit facility (no change, strapped to MH) | 
+| 0x | 0x | Single digit facility (no change, strapped to MH) | 
+
+## REG T (Misc Services Block Renumbering)
+
+| Original Designation | New Designation | Notes |
+|:---------------------|:----------------|:------|
+| 9 | 9 | Single Digit Access - Strapped to MH |
+| 8 | 8 | Single Digit Access - Strapped to MH |
+| 7 | 1 | Single Digit Access - Strapped to MH |
+| 6 | 2 | Tie Line style strapping (to control room equipment?) |
+| 0 | 0 | Single Digit Access - Strapped to MH |
 
 # Access from London Transport Network
 The following information comes from "Railway Automatic Telephone Directory" copies held by London Transport Museum.  They show how the numbering from the main London Transport Network changed over time.

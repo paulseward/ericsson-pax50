@@ -93,3 +93,11 @@ The following Telephone Rentals documents were copy typed from documents kindly 
 | [S50 - Facilities, Tie Lines](./local/EP2-4066-S50-Facilities-tie-lines.pdf ) | Tie Lines |
 | [S50 - Facilities, Group Hunting](./local/EP2-4072-S50-Facilities-Group-Hunting.pdf ) | Group Hunting |
 
+## Catalogue Materials
+| Catalogue | Year |
+|:----------|:-----|
+| [Telephone Rentals PAX 50](http://paulseward.com/downloads/Telephony_Catalogues/TR-Catalogue-02/Internal%20Telephones/T468-1-PAX-50.pdf) | 1951 |
+| [Telephone Rentals PAX 50](http://paulseward.com/downloads/Telephony_Catalogues/TR-Catalogue-01/Internal%20Telephones/T408-PAX-50.pdf) | 1963 |
+| [Plessey Catalogue](http://www.samhallas.co.uk/repository/documents/plessey_catalogue.pdf) P16,17,18 | 1971 |
+
+More Plessey coming soon (once I've scanned it)
